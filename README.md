@@ -23,13 +23,23 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1143354267273527336/1415839156969672724/Crazy.gif?ex=68cde4f8&is=68cc9378&hm=3da728d3a65d86a08f9077b5353f8b0424ba9613acfa6624fb7a81cd6a4a96d8&"  />
+<img align="left" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDhvYXYyOG80MmFhaWttcWxjcTc2Z3h4cHppMTJvNTUwN3d3MHVmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ny5suVXOtT4RreZ7gs/giphy.gif"  />
 
 ###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
+<img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDU4c3hwajFqcnJkaGJqaDBnOXA1bXN1em9vanllYzEzZmhleHc0cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5uylgPppdSDqtEvDLO/giphy.gif"  />
+
+###
+
+<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb29haGVjYTBkdm96aWljNDgwbWtyeDIyM2MyMG8zdWpvZXN0dXd0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CBdAAvsd63x5u/giphy.gif"  />
+
+###
+
+<img align="right" height="162" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YmMxeGZybzd2cHowZ2NsNjhqZ3Zqb3V3azJlZGs0ODNqM2VqZzR3dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dBHyy0gA87NTy/giphy.gif"  />
+
+###
+
+<img align="right" height="147" src="https://cdn.discordapp.com/attachments/1143354267273527336/1415839156969672724/Crazy.gif?ex=68cde4f8&is=68cc9378&hm=3da728d3a65d86a08f9077b5353f8b0424ba9613acfa6624fb7a81cd6a4a96d8&"  />
 
 ###
 
